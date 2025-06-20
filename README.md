@@ -1,1 +1,1 @@
-# RetailInsights
+This project analyzes a retail sales dataset using Python. It summarizes monthly total sales and identifies top-selling products by quantity. Visualizations are created using Matplotlib and Seaborn, and the results are exported as images and a combined CSV report. The project showcases basic data analysis, grouping, and chart generation for business insights.
